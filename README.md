@@ -14,7 +14,7 @@ It supports PouchDB till version **7.0.0**
 
 ## Installation
 ```bash
-npm install --save-exact pouchdb-adapters-rn
+npm install --save https://github.com/dj1993cse/pouchdb-adapters-rn.git
 npm install --save-exact react-native-sqlite-2@1.6.0
 npm install --save https://github.com/kkbhav/react-native-fetch-blob.git#work
 react-native link rn-fetch-blob
