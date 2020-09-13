@@ -32,7 +32,7 @@
     "react-native-mime-types": "^2.2.1"
   },
   "peerDependencies": {
-    "rn-fetch-blob": "git+https://github.com/kkbhav/react-native-fetch-blob.git#work",
+    "rn-fetch-blob": "git+https://github.com/dj1993cse/react-native-fetch-blob.git",
     "react-native-sqlite-2": "^3.1.0"
   },
   "devDependencies": {
